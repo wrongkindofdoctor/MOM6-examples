@@ -235,11 +235,11 @@
 "ocean_model_z", "uo",   "uo",       "ocean_Barents_opening",    "all", "mean", "6. 6. 62. 80.2 -1 -1",2
 
 # Bering Strait (east-west section)
-"ocean_model_z", "volcello", "volcello", "ocean_Bering_Strait",    "all", "mean", "-171.4 -168.7  66.1 66.1 -1 -1",2
-"ocean_model_z", "thetao","thetao",  "ocean_Bering_Strait",    "all", "mean", "-171.4 -168.7  66.1 66.1 -1 -1",2
-"ocean_model_z", "so",   "so",       "ocean_Bering_Strait",    "all", "mean", "-171.4 -168.7  66.1 66.1 -1 -1",2
-"ocean_model_z", "vmo",  "vmo",      "ocean_Bering_Strait",    "all", "mean", "-171.4 -168.7  66.1 66.1 -1 -1",2
-"ocean_model_z", "vo",   "vo",       "ocean_Bering_Strait",    "all", "mean", "-171.4 -168.7  66.1 66.1 -1 -1",2
+"ocean_model_z", "volcello", "volcello", "ocean_Bering_Strait",    "all", "mean", "-171.4 -168.7  65.9 65.9 -1 -1",2
+"ocean_model_z", "thetao","thetao",  "ocean_Bering_Strait",    "all", "mean", "-171.0 -167  65.9 65.9 -1 -1",2
+"ocean_model_z", "so",   "so",       "ocean_Bering_Strait",    "all", "mean", "-171.0 -167  65.9 65.9 -1 -1",2
+"ocean_model_z", "vmo",  "vmo",      "ocean_Bering_Strait",    "all", "mean", "-171.0 -167  65.9 65.9 -1 -1",2
+"ocean_model_z", "vo",   "vo",       "ocean_Bering_Strait",    "all", "mean", "-171.0 -167  65.9 65.9 -1 -1",2
 
 # Caribbean (east-west section, Cuba-Haiti) Windward Passage
 "ocean_model_z", "volcello", "volcello", "ocean_Windward_Passage", "all", "mean", "-75.0 -72.5 19.96 19.96 -1 -1",2
