@@ -1,6 +1,9 @@
 ! This file was written by the model and records all non-layout or debugging parameters used at run-time.
 
 ! === module MOM ===
+
+! === module MOM_unit_scaling ===
+! Parameters for doing unit scaling of variables.
 SPLIT = True                    !   [Boolean] default = True
                                 ! Use the split time stepping if true.
 CALC_RHO_FOR_SEA_LEVEL = False  !   [Boolean] default = False
@@ -456,6 +459,9 @@ THICKNESS_CONFIG = "seamount"   !
                                 !     USER - call a user modified routine.
 MIN_THICKNESS = 0.1             !   [m] default = 0.001
                                 ! Minimum thickness for layer
+INTERFACE_IC_QUANTA = 2048.0    !   [m-1] default = 2048.0
+                                ! The granularity of initial interface height values
+                                ! per meter, to avoid sensivity to order-of-arithmetic changes.
 TS_CONFIG = "seamount"          !
                                 ! A string that determines how the initial tempertures
                                 ! and salinities are specified for a new run:
