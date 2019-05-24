@@ -1,1 +1,1 @@
-.datasets/global/siena_201204/mosaic.unpacked/land_mask.nc
+../../../../../.datasets/global/siena_201204/mosaic.unpacked/land_mask.nc

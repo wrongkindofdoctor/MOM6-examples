@@ -1,1 +1,1 @@
-.datasets/global/siena_201204/mosaic.unpacked/ocean_vgrid.nc
+../../../../../.datasets/global/siena_201204/mosaic.unpacked/ocean_vgrid.nc

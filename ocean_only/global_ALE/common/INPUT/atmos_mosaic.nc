@@ -1,1 +1,1 @@
-.datasets/global/siena_201204/mosaic.unpacked/atmos_mosaic.nc
+../../../../../.datasets/global/siena_201204/mosaic.unpacked/atmos_mosaic.nc

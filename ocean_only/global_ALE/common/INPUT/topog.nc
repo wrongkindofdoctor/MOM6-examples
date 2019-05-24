@@ -1,1 +1,1 @@
-.datasets/global/siena_201204/mosaic.unpacked/topog.nc
+../../../../../.datasets/global/siena_201204/mosaic.unpacked/topog.nc
