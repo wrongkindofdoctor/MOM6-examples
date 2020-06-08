@@ -1,12 +1,3 @@
-[submodule "src/FMS"]
-	path = src/FMS
-	url = https://github.com/NOAA-GFDL/FMS.git
-[submodule "src/MOM6"]
-	path = src/MOM6
-	url = https://github.com/NOAA-GFDL/MOM6.git
-[submodule "src/SIS2"]
-	path = src/SIS2
-	url = https://github.com/NOAA-GFDL/SIS2.git
 [submodule "tools/matlab/gtools"]
 	path = tools/matlab/gtools
 	url = https://github.com/Adcroft/gtools.git
@@ -15,7 +6,7 @@
 	url = https://github.com/mjharriso/MIDAS.git
 [submodule "src/icebergs"]
 	path = src/icebergs
-	url = https://github.com/NOAA-GFDL/icebergs.git
+	url = git@github.com:wrongkindofdoctor/icebergs.git
 [submodule "src/coupler"]
 	path = src/coupler
 	url = https://github.com/NOAA-GFDL/coupler.git
@@ -34,3 +25,15 @@
 [submodule "src/ice_param"]
 	path = src/ice_param
 	url = https://github.com/NOAA-GFDL/ice_param.git
+[submodule "src/MOM6"]
+	path = src/MOM6
+	url = git@github.com:wrongkindofdoctor/MOM6.git
+[submodule "src/SIS2"]
+	path = src/SIS2
+	url = git@github.com:wrongkindofdoctor/SIS2.git
+[submodule "src/FMS"]
+	path = src/FMS
+	url = git@github.com:wrongkindofdoctor/FMS.git
+[submodule "src/FMScoupler"]
+	path = src/FMScoupler
+	url = git@github.com:wrongkindofdoctor/FMScoupler.git
